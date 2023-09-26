@@ -1,4 +1,4 @@
-### Hi there, I am Kaan, a Computer Engineer candidate👋
+### Hi there, I am Kaan, a Computer Scientist candidate👋
 <br>
 
 - 🔭 I’m currently studying in high school.
