@@ -10,7 +10,7 @@ Thanks for visiting my GitHub profile! I'm passionate about coding and crafting 
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/kaan-dogan-593b28268)
+- [LinkedIn](https://www.linkedin.com/in/kaan-dogan-593b28268)
 - kaandn51@gmail.com
 - [kaan-dogan.github.io](https://kaan-dogan.github.io)
 
